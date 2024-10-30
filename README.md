@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Multiple Linear Regression Assignment
+> Multiple Linear Regression Assignment on Bike sharing
 
 ## Table of Contents
 * [General Info](#general-information)
